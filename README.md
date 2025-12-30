@@ -84,7 +84,7 @@ Amaç:
 4. 68 bit tamamlanınca:
    - Son 4 bit kırpılır
    - 64-bit hex anahtar oluşturulur
-![Algoritma_akıs_diyagramı.png](../../Downloads/Algoritma_ak%C4%B1s_diyagram%C4%B1.png)
+![Algoritma_akıs_diyagramı.png](Algoritma_akis_diyagrami.png)
 
 ---
 
